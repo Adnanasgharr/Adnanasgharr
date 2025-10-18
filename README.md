@@ -14,12 +14,12 @@
 **Tools:** Git, VS Code, Postman, Figma  
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/adnan-asghar-dev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel)](https://your-portfolio-link.com)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
 ## 🧩 GitHub Stats
-![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanasghar&show_icons=true&theme=radical)
+![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adnanasgharr&show_icons=true&theme=radical)
 
 ## 📈 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanasgharr&layout=compact&theme=radical)
